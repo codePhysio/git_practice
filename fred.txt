@@ -1,2 +1,5 @@
 
 creating fred.txt
+
+
+I love the flintstones!
